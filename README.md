@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common TypeScript error: type mismatch when using a Date object. The bug.ts file shows the erroneous code that causes the error. The bugSolution.ts file provides the corrected code.
